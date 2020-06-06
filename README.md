@@ -1,5 +1,7 @@
 # Heroics
 
+[https://s3-us-west-2.amazonaws.com/s.cdpn.io/1674766/mask-icon.svg]()
+
 Nodejs powered Express Application for Heroku
 
 ## Running Locally
