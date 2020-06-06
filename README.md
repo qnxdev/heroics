@@ -1,6 +1,6 @@
-# heroics
-heroku application
 # Heroics
+
+Nodejs powered Express Application for Heroku
 
 ## Running Locally
 
@@ -8,7 +8,7 @@ Make sure you have [Node.js](http://nodejs.org/) and the [Heroku CLI](https://cl
 
 ```sh
 $ git clone https://github.com/Autoraidapi/heroics.git # or clone your own fork
-$ cd node-js-getting-started
+$ cd heroics
 $ npm install
 $ npm start
 ```
