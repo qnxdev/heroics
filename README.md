@@ -1,4 +1,4 @@
-# ![Heroics](https://assets.codepen.io/1674766/icon-64x64.png) | Heroics
+# Heroics
 
 Nodejs powered Express Application for Heroku
 
