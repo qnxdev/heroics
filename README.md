@@ -1,4 +1,4 @@
-# ![Heroics](https://s3-us-west-2.amazonaws.com/s.cdpn.io/1674766/mask-icon.svg)
+# ![Heroics](https://assets.codepen.io/1674766/icon-32x32.png)
 
 Nodejs powered Express Application for Heroku
 
