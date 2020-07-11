@@ -24,5 +24,8 @@ app.get("*", function(req, res){
 });
 
 app.listen(PORT, IP, function(){ 
-    console.log("Server is Open @port 3000");
+    console.log({
+        'PORT' : PORT,
+        'IP' : IP
+    });
 });
