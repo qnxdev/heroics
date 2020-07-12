@@ -1,6 +1,8 @@
 # Heroics
 
-Nodejs powered Express Application for Heroku
+* Nodejs
+* Express
+* Heroku
 
 ## Running Locally
 
